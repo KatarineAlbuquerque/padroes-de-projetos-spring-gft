@@ -30,6 +30,6 @@
 #### O programa cria uma API Rest que foi implemetada em Spring Boot, e para acessar no Browser basta digitar "http://localhost:8080/swagger-ui/index.html" após a execução do programa no eclipse.
 
 #### O Swagger foi instalado na versão 1.6.4
-[Migrating from SpringFox](https://springdoc.org/#migrating-from-springfox)
+Migrating from SpringFox [Leia mais](https://springdoc.org/#migrating-from-springfox)
 
 ![API Swagger](https://github.com/KatarineAlbuquerque/padroes-de-projetos-spring-gft/blob/main/images/swagger.png)
