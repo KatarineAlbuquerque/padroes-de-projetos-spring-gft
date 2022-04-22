@@ -5,8 +5,8 @@
 #### Programa de Exemplo MVC com Spring desenvolvido através de um modelo UML feito por mim para exemplificar a relação entre modelos de entidade de negócio e gerar um programa de API Rest.
 
 
-![UML do Projeto](https://github.com/KatarineAlbuquerque/padroes-de-projetos-spring-gft/blob/main/images/padroes_projeto.png)
-
+/*![UML do Projeto](https://github.com/KatarineAlbuquerque/padroes-de-projetos-spring-gft/blob/main/images/padroes_projeto.png)*/
+<img src="./images/padroes_projeto.png" alt="UML do Projeto" width="100%" />
 
 #### O Programa foi desenvolvido na IDE Eclipse.
 [Baixar IDE Eclipse](https://www.eclipse.org/downloads/)
@@ -32,4 +32,6 @@
 #### O Swagger foi instalado na versão 1.6.4
 Migrating from SpringFox [Leia mais](https://springdoc.org/#migrating-from-springfox)
 
-![API Swagger](https://github.com/KatarineAlbuquerque/padroes-de-projetos-spring-gft/blob/main/images/swagger.png)
+/*![API Swagger](https://github.com/KatarineAlbuquerque/padroes-de-projetos-spring-gft/blob/main/images/swagger.png)*/
+
+<img src="./images/swagger.png" alt="API Swagger" width="100%" />
